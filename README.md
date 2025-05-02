@@ -1,4 +1,4 @@
-# Keanna Sion 
+# Keanna Sion - Senior Software Engineer - Ad Tech Specialist
 <img style="float:right;width:70px;padding:6px" src="gt-large.png" />
 
 <span style="float:right;padding:6px"> 
@@ -6,24 +6,22 @@
   Atlanta, GA <br>
 </span>
 
-## Senior Software Engineer - Ad Tech Specialist
-
 ### Executive Summary
 
 * 3 years project/team management
 * 10 years individual contributor
-* DDD, TDD, microservice architectures
-* Hand-on experience with SQL, Cosmos DB (No-SQL)
+* Skilled in Microservice architectures
+* Hand-on experience with SQL, Entity Framework, Cosmos DB (No-SQL)
 * Proficient in .Net Core, RESTful APIs, Batch Job Processing
   
 ### Profile 
 
-Disciplined software engineer with 10+ years of C# expertise and battlefield-tested experience in .NET Core, microservices, and Azure cloud solutions. Led full-stack teams and engineered high-performance APIs, worker services, and complex SQL for apps with strict uptime requirements and high user engagement. Specialized in CQRS development, Docker/Kubernetes containerization and orchestration, and automated CI/CD pipelines via Azure DevOps and GitHub. Skilled in developing real-time APIs and automation tools integrated with Google Ads, Bing, Facebook, and YouTube to support programmatic advertising and cross-channel campaign management. Adept in event-driven architecture, cloud solutions, and leading high-performing development teams.
+Disciplined software engineer with 10+ years of C# expertise and battle-tested experience in .NET Core, microservices, and Azure cloud solutions. Led full-stack teams and engineered high-performance APIs, worker services, and complex SQL for apps with strict uptime requirements and high user engagement. Knowledgeable in CQRS development, Docker/Kubernetes containerization and orchestration, and automated CI/CD pipelines via Azure DevOps and GitHub. Skilled in developing real-time APIs and automation tools integrated with Google Ads, Bing, Facebook, and YouTube to support programmatic advertising and cross-channel campaign management. Adept in event-driven architecture, cloud solutions, and leading high-performing development teams.
 
 ---
 
 ### Skills 
-C# 12, .NET Core, .NET Framework, REST APIs, Azure DevOps, GitHub, Kubernetes (AKS), Docker, OpenLens, Azure Blob/Table/Cosmos DB, Entity Framework, SQL, LINQ, CQRS, DDD, Agile, CI/CD, Loggly, Programmatic Advertising, Google Ads API, Facebook Ads API, YouTube API, DSP Integrations
+C# 12, .NET Core, .NET Framework, REST APIs, Azure DevOps, GitHub, Kubernetes (AKS), Docker, OpenLens, Azure Blob/Table/Cosmos DB, DataFrames, Entity Framework, SQL, LINQ, CQRS, DDD, Agile, CI/CD, Loggly, Programmatic Advertising, Google Ads API, Facebook Ads API, YouTube API, DSP Integrations
 
 ---
 
