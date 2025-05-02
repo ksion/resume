@@ -1,7 +1,6 @@
 # Keanna Sion 
 <img style="float:right;width:70px;padding:6px" src="gt-large.png" />
 
-
 <span style="float:right;padding:6px"> 
   sion.keanna@gmail.com <br> mobile: 678.462.2106 <br>
   Atlanta, GA <br>
@@ -9,8 +8,17 @@
 
 ## Senior Software Engineer - Ad Tech Specialist
 
+### Executive Summary
+
+* 3 years project/team management
+* 10 years individual contributor
+* DDD, TDD, microservice architectures
+* Hand-on experience with SQL, Cosmos DB (No-SQL)
+* Proficient in .Net Core, RESTful APIs, Batch Job Processing
+  
 ### Profile 
-Senior Software Engineer with 10+ years of experience in C# and .NET technologies, with a proven track record in designing scalable ad-tech systems. Skilled in developing real-time APIs and automation tools integrated with Google Ads, Bing, Facebook, and YouTube to support programmatic advertising and cross-channel campaign management. Adept in event-driven architecture, cloud solutions, and leading high-performing development teams.
+
+Disciplined software engineer with 10+ years of C# expertise and battlefield-tested experience in .NET Core, microservices, and Azure cloud solutions. Led full-stack teams and engineered high-performance APIs, worker services, and complex SQL for apps with strict uptime requirements and high user engagement. Specialized in CQRS development, Docker/Kubernetes containerization and orchestration, and automated CI/CD pipelines via Azure DevOps and GitHub. Skilled in developing real-time APIs and automation tools integrated with Google Ads, Bing, Facebook, and YouTube to support programmatic advertising and cross-channel campaign management. Adept in event-driven architecture, cloud solutions, and leading high-performing development teams.
 
 ---
 
@@ -69,9 +77,12 @@ Georgia Institute of Technology, Atlanta, GA
 ---
 
 ### Certifications 
-Scrum Master Certified (2022)  
+Scrum Master Certified (2022) 
 
 ---
 
-### Hobbies 
-Paper Crafting, Travel, ATL UTD
+### Hobbies
+
+* Paper Crafting
+* Travel
+* ATL UTD, Footie Mob Member (2019)
