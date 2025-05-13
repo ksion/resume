@@ -16,7 +16,7 @@
   
 ### Profile 
 
-Disciplined software engineer with 10+ years of C# expertise and battle-tested experience in .NET Core, microservices, and Azure cloud solutions. Led full-stack teams and engineered high-performance APIs, worker services, and complex SQL for apps with strict uptime requirements and high user engagement. Knowledgeable in CQRS development, Docker/Kubernetes containerization and orchestration, and automated CI/CD pipelines via Azure DevOps and GitHub. Skilled in developing real-time APIs and automation tools integrated with Google Ads, Bing, Facebook, and YouTube to support programmatic advertising and cross-channel campaign management. Adept in event-driven architecture, cloud solutions, and leading high-performing development teams.
+Disciplined software engineer with 10+ years of C# expertise and battle-tested experience in .NET Core, microservices, and Azure cloud solutions. Led full-stack teams and engineered high-performance APIs, worker services, and complex SQL for applications with strict uptime requirements and high user engagement. Proficient in CQRS architecture, Docker/Kubernetes containerization, event-driven systems with decoupled producers and consumers, and automated CI/CD pipelines using Azure DevOps and GitHub. Skilled in building real-time APIs and automation tools integrated with Google Ads, Bing, Facebook, and YouTube to power programmatic advertising and cross-channel campaign management. Adept at implementing audit trails, performing forensic debugging, analyzing large data sets for performance reporting, and leading high-performing development teams.
 
 ---
 
@@ -49,14 +49,15 @@ Technologies: .NET Core 8+, Oracle SQL, Azure DevOps, Oracle C2M, .NET Framework
 **Sr. Software Engineer, Dev Team Lead**  
 PureCars Technologies LLC, Atlanta, GA  
 *May 2015 – April 2024*  
-Technologies: .NET Core, .NET Framework, REST APIs, Azure (App Services, AKS, Cosmos DB, Service Bus, Event Hub, Blob Storage, Tables), Azure SQL DB, Kubernetes, Docker, Snowflake, Files.com, GitHub, Loggly  
-- Led a team of 5 developers (front/back end) to oversee conception, requirements gathering, documentation, and building of ad-tech platforms for Tier II automotive campaigns across Google, Facebook, Bing, and YouTube.
+Technologies: .NET Core, .NET Framework, REST APIs, Azure (App Services, AKS, Cosmos DB, Service Bus, Event Hub, Blob Storage, Tables), Azure SQL DB, Kubernetes, Docker, Snowflake, Files.com (fka BrickFTP), GitHub, Loggly  
+- Led a team of 5 developers (front/back end) through conception, requirements gathering, documentation, and delivery of ad-tech platforms for Tier II automotive campaigns across Google, Facebook, Bing, and YouTube.
 - Built automation tools for dynamic ad generation, budgeting, pacing, and campaign delivery.
-- Created integration flows and campaign performance reporting pipelines for several automotive OEMs.
-- Integrated with Google Ads, Bing Ads, Facebook, and YouTube APIs for trafficking creative assets and tracking.
+- Developed integration flows and campaign performance reporting pipelines for multiple automotive OEMs.
+- Integrated with Google Ads, Bing Ads, Facebook, and YouTube APIs for creative asset trafficking and performance tracking.
 - Maintained systems for campaign compliance, attribution tracking, and lead routing.
-- Elevated engineering standards—driving SOLID design, clean code, and downstream impact awareness through targeted mentorship and precision code reviews.
-- Authored engineering documentation (Miro, Markdown, Mermaid) and managed requirements in Jira.
+- Utilized Loggly for centralized log aggregation and real-time streaming analytics to monitor system health, trace errors, and support active development across distributed services.
+- Championed engineering standards—promoting SOLID design, clean code, and downstream impact awareness through targeted mentorship and precision code reviews.
+- Authored engineering documentation (Miro, Markdown, Mermaid) and managed development tasks and requirements in Jira.
 
 **Software Engineer, Co-op Student**  
 CareerBuilder, Norcross, GA  
