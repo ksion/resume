@@ -21,7 +21,7 @@ Disciplined software engineer with 10+ years of C# expertise and battle-tested e
 ---
 
 ### Skills 
-C# 12, .NET Core, .NET Framework, REST APIs, Azure DevOps, GitHub, Kubernetes (AKS), Docker, OpenLens, Azure Blob/Table/Cosmos DB, DataFrames, Entity Framework, SQL, LINQ, CQRS, DDD, Agile, CI/CD, Loggly, Programmatic Advertising, Google Ads API, Facebook Ads API, YouTube API, DSP Integrations
+C# 12, .NET Core, .NET Framework, REST APIs, Azure DevOps, GitHub, Kubernetes (AKS), Docker, OpenLens, Azure Blob/Table/Cosmos DB, DataFrames, Entity Framework, SQL, LINQ, CQRS, DDD, Agile, CI/CD, Loggly, Programmatic Advertising, Google Ads API, Facebook Ads API, YouTube API, DSP Integrations, XUnit, MSTest
 
 ---
 
