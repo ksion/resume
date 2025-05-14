@@ -40,8 +40,8 @@ C# 12, .NET Core, .NET Framework, REST APIs, Azure DevOps, GitHub, Kubernetes (A
 **Senior Full-Stack Developer**  
 Southern Company, Atlanta, GA  
 *June 2024 – March 2025*  
-Technologies: .NET Core 8+, Oracle SQL, Azure DevOps, Oracle C2M, .NET Framework 4.8  
-- Managed and optimized a messaging system used to deliver regulatory communications to millions of utility customers.
+Technologies: .NET Core 8+, Oracle SQL, Azure DevOps, Oracle C2M, .NET Framework 4.8, COM Components  
+- Managed and optimized email and sms messaging system used to deliver outage, billing, and marketing communications to millions of utility customers.
 - Wrote complex SQL scripts to manage and transform large datasets with performance and compliance in mind.
 - Participated in modernizing legacy APIs using CQRS architecture and asynchronous .NET Core microservices.
 - Delivered robust and scalable APIs supporting customer-to-meter integration.
