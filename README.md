@@ -45,20 +45,23 @@ Southern Company, Atlanta, GA
 Technologies: .NET Core 8+, Oracle SQL, Azure DevOps, Oracle C2M, .NET Framework 4.8
 - Participated heavily in design discussions and implementation of modernized APIs using CQRS architecture and asynchronous .NET Core microservices, with a focus on decoupling from legacy monolith logic and redefining Oracle C2M integration patterns for the new system.
 - Designed and implemented a secure PIN attempt caching endpoint for mobile and desktop experiences using CQRS architecture, leveraging in-memory server-side caching to enforce time-windowed rate limits for unverified users. The feature integrated with C2M to retrieve and verify PINs and handled account lockout logic on final failed attempts.
+- Managed and optimized the inbound/outbound messaging system responsible for delivering critical communications to millions of utility customers. Developed SQL scripts of varying complexity to query, transform, and manage large datasets. Ensured deliverability, compliance with regulations, and system reliability.
 - Maintained and updated high-volume SMS and email templates via large-scale SQL scripts, ensuring accuracy across customer communications while adhering to strict versioning protocols for rollback and auditability.
-- Resolved critical bugs in legacy .NET Framework services and React frontends, including incorrect logic that returned the wrong mailing address and a front-end PIN visibility issue stemming from a three-year-old backend property rename, improving data accuracy and reliability across customer account views.
+- Resolved critical bugs in legacy .NET Framework services and React frontends, improving data accuracy and reliability across customer account views.
 
 **Sr. Software Engineer, Dev Team Lead**  
 PureCars Technologies LLC, Atlanta, GA  
 *May 2015 – April 2024*  
-Technologies: .NET Core, .NET Framework, REST APIs, Azure (App Services, AKS, Cosmos DB, Service Bus, Event Hub, Blob Storage, Tables), Azure SQL DB, Kubernetes, Docker, Snowflake, Files.com, GitHub, Loggly  
-- Led a team of 5 developers (front/back end) to oversee conception, requirements gathering, documentation, and building of ad-tech platforms for Tier II automotive campaigns across Google, Facebook, Bing, and YouTube.
-- Built automation tools for dynamic ad generation, budgeting, pacing, and campaign delivery.
-- Created integration flows and campaign performance reporting pipelines for several automotive OEMs.
-- Integrated with Google Ads, Bing Ads, Facebook, and YouTube APIs for trafficking creative assets and tracking.
-- Maintained systems for campaign compliance, attribution tracking, and lead routing.
-- Elevated engineering standards—driving SOLID design, clean code, and downstream impact awareness through targeted mentorship and precision code reviews.
-- Authored engineering documentation (Miro, Markdown, Mermaid) and managed requirements in Jira.
+Technologies: .NET Core, .NET Framework, REST APIs, Azure (App Services, AKS, Cosmos DB, Service Bus, Event Hub, Blob Storage, Tables), Azure SQL DB, Kubernetes, Docker, Snowflake, Files.com, GitHub, Loggly
+- Led a team of five in building and maintaining applications that generated digital ad creatives across search, display, video, and connected TV at scale for Tier II automotive OEM regional ad programs.
+- Implemented a scalable video generation pipeline using the open-source NexRender framework to automate Adobe After Effects rendering, dynamically injecting custom text, images, fonts, audio, and video assets; integrated the YouTube Data API to automate video uploads and manage published content.
+- Developed compliance reporting tools using data-frame technologies to consolidate analytics, lead, call, and sales data—demonstrating the performance and impact of ads produced within our systems.
+- Created worker processes and APIs around lead generation and submission used throughout the organization for user-facing forms and applications (ex. Trade-Report, Performance Reports, Facebook Ads).
+- Built and maintained infrastructure to generate ads from dealership inventory and sales data and to traffic creative assets directly to Google Ads, Bing Ads, Facebook, and YouTube.
+- Spearheaded the development and implementation of logic pivotal in managing budgeting and pacing within various ad platforms.
+- Collaborated directly with external developers at Google, Bing, and Facebook to troubleshoot API issues and ensure seamless third-party integrations.
+- Managed the life-cycle of various integrations with external APIs, including updating and ensuring compliance with the latest API releases, as well as implementing sun-setting schedules for deprecated APIs.
+- Facilitated adherence to agile methodologies within my team (Scrum Master Certified, 2022) while providing technical guidance and mentorship to junior engineers and peers. Triaged and resolved bugs ranging in severity and visibility. Gathered customer requirements from Product and produced engineering documentation (flowcharts, sequence diagrams, and pseudocode created in Miro and/or Mermaid Markdown) and Jira cases.
 
 **Software Engineer, Co-op Student**  
 CareerBuilder, Norcross, GA  
