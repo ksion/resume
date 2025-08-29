@@ -51,17 +51,24 @@ Technologies: .NET Core 8+, Oracle SQL, Azure DevOps, Oracle C2M, .NET Framework
 
 **Sr. Software Engineer, Dev Team Lead**  
 PureCars Technologies LLC, Atlanta, GA  
-*May 2015 – April 2024*  
+*August 2022 – April 2024*  
 Technologies: .NET Core, .NET Framework, REST APIs, Azure (App Services, AKS, Cosmos DB, Service Bus, Event Hub, Blob Storage, Tables), Azure SQL DB, Kubernetes, Docker, Snowflake, Files.com, GitHub, Loggly
-- Led a team of five in building and maintaining applications that generated digital ad creatives across search, display, video, and connected TV at scale for Tier II automotive OEM regional ad programs.
+- Led a team of five engineers in building and maintaining applications that generated digital ad creatives across search, display, video, and connected TV at scale for Tier II automotive OEM regional ad programs.
 - Implemented a scalable video generation pipeline using the open-source NexRender framework to automate Adobe After Effects rendering, dynamically injecting custom text, images, fonts, audio, and video assets; integrated the YouTube Data API to automate video uploads and manage published content.
-- Developed compliance reporting tools using data-frame technologies to consolidate analytics, lead, call, and sales data—demonstrating the performance and impact of ads produced within our systems.
-- Created worker processes and APIs around lead generation and submission used throughout the organization for user-facing forms and applications (ex. Trade-Report, Performance Reports, Facebook Ads).
-- Built and maintained infrastructure to generate ads from dealership inventory and sales data and to traffic creative assets directly to Google Ads, Bing Ads, Facebook, and YouTube.
-- Spearheaded the development and implementation of logic pivotal in managing budgeting and pacing within various ad platforms.
-- Collaborated directly with external developers at Google, Bing, and Facebook to troubleshoot API issues and ensure seamless third-party integrations.
-- Managed the life-cycle of various integrations with external APIs, including updating and ensuring compliance with the latest API releases, as well as implementing sun-setting schedules for deprecated APIs.
-- Facilitated adherence to agile methodologies within my team (Scrum Master Certified, 2022) while providing technical guidance and mentorship to junior engineers and peers. Triaged and resolved bugs ranging in severity and visibility. Gathered customer requirements from Product and produced engineering documentation (flowcharts, sequence diagrams, and pseudocode created in Miro and/or Mermaid Markdown) and Jira cases.
+- Developed compliance reporting tools using data-frame technologies to consolidate analytics, lead, call, and sales data, enabling stakeholders to demonstrate the performance and ROI of ads produced within our systems.
+- Facilitated agile practices as Scrum Master (certified 2022), providing technical guidance and mentorship to junior engineers while ensuring sprint planning, backlog grooming, and delivery cadence. Collaborated with Product to gather customer requirements and produced engineering documentation (flowcharts, sequence diagrams, pseudocode in Miro and Mermaid Markdown). Triaged and resolved bugs ranging in severity and visibility.
+
+**Sr. Software Engineer**  
+*April 2021 – April 2024*
+- Developed worker processes and APIs around lead generation and submission used throughout the organization for user-facing forms and applications (ex. Trade-Report, Performance Reports, Facebook Ads).
+- Owned the full life cycle of multiple external API integrations, including implementing new releases, ensuring compliance with changing requirements, and managing deprecation schedules to maintain platform stability.
+
+**Software Engineer**  
+*May 2015 – April 2021*
+- Built and maintained infrastructure to generate ads from dealership inventory and sales data, trafficking creative assets directly to Google Ads, Bing Ads, and Facebook.
+- Spearheaded development of budgeting and pacing logic across multiple ad platforms, leveraging tree data structures to optimize spend management and performance.
+- Partnered with external developers at Google, Bing, and Facebook to troubleshoot API issues and ensure seamless third-party integrations.
+- Designed and implemented a data-driven forms engine that allowed the frontend to dynamically render forms based on backend-provided configuration data, reducing hard-coded UI logic and accelerating feature delivery.
 
 **Software Engineer, Co-op Student**  
 CareerBuilder, Norcross, GA  
