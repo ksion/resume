@@ -42,18 +42,20 @@ Southern Company, Atlanta, GA
 **Sr. Software Engineer, Dev Team Lead**  
 PureCars Technologies LLC, Atlanta, GA  
 *April 2021 – April 2024*  
-- Led a team of five engineers in building distributed applications and APIs supporting large-scale data processing and integrations.
+- Led a team of five engineers in building distributed systems and APIs that transformed raw data into dynamic automotive ad creative for search, display, video, and connected TV channels.
 - Developed scalable microservices in .NET Core with Azure Kubernetes Service, Cosmos DB, Service Bus, and Event Hub.
-- Built automated data processing pipelines and compliance reporting tools using Azure SQL and Snowflake.
-- Served as Scrum Master, facilitating agile ceremonies, mentoring junior developers, and producing engineering documentation.
-- Delivered resilient integrations with third-party APIs, ensuring compliance with evolving requirements.
-- Provided bug triage and production issue resolution across high-visibility systems.
+- Engineered automated data pipelines to aggregate performance data across search, display, video, connected TV, and social channels, standardize dimensions and metrics, and deliver compliance reports to OEMs via scheduled FTP drops.
+- Served as Scrum Master, facilitating agile ceremonies, mentoring junior developers, and producing actionable engineering documentation.
+- Delivered resilient third-party API integrations, ensuring compliance with evolving data and creative delivery requirements.
+- Owned production stability, triaging bugs and resolving issues across high-visibility, revenue-impacting systems.
 
 **Software Engineer**  
 *May 2015 – April 2021*
-- Designed APIs and worker services for real-time lead generation and campaign reporting.
-- Implemented data-driven UI frameworks for form rendering, reducing technical debt and accelerating delivery.
-- Collaborated with external developers (Google, Bing, Facebook) to ensure API compliance and stability.
+- Developed distributed worker processes and APIs supporting lead generation and submission flows across user-facing applications such as Trade Report, Performance Reports, and Facebook Ads.
+- Designed and implemented a data-driven forms engine enabling dynamic front-end rendering based on backend configuration, reducing hard-coded UI logic and accelerating feature delivery.
+- Built and maintained automated ad-generation infrastructure that transformed dealership inventory and sales data into creative assets trafficked directly to Google Ads, Bing Ads, and Facebook.
+- Engineered budgeting and pacing logic across multiple ad platforms, leveraging hierarchical data structures to optimize spend allocation and campaign performance.
+- Collaborated with external partner teams at Google, Bing, and Facebook to ensure API compliance, resolve integration issues, and maintain platform stability.
 
 **Software Engineer, Co-op Student**  
 CareerBuilder, Norcross, GA  
