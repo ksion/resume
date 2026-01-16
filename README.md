@@ -60,7 +60,11 @@ PureCars Technologies LLC, Atlanta, GA
 **Software Engineer, Co-op Student**  
 CareerBuilder, Norcross, GA  
 *January 2013 – May 2015*  
-- Built ASP.NET web forms and monitored batch jobs supporting large-scale recruitment systems.
+- Worked as a full-stack engineer supporting the job seeker platform across desktop and mobile experiences.
+- Contributed to a legacy ASP.NET Framework UX codebase during an active modernization effort transitioning from VB and ASP.NET Web Forms toward a .NET API–based architecture.
+- Implemented responsive layouts using the Foundation grid system to ensure usability across varying screen sizes and devices.
+- Developed the first iteration of a mobile swipe feature that enabled job seekers to browse a carousel of job postings.
+- Collaborated closely with designers and engineers to translate UX requirements into scalable, production-ready functionality.
 
 ---
 
