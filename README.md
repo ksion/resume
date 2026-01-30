@@ -21,7 +21,7 @@ Datastores & Analytics: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage,
 Enterprise Systems, Platforms & API Tooling: Google Ads (formerly AdWords), Microsoft Advertising (formerly Bing Ads), Meta Ads, Oracle Utilities C2M, Postman, Swagger / OpenAPI  
 Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
 Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
-Architecture & Integration: Microservices, CQRS, event-driven architecture, API integrations, clean code principles, layered (n-tier) architecture, vertical slice architecture, functional programming principles  
+Architecture & Integration: Microservices, CQRS, event-driven architecture, asynchronous processing, layered (n-tier), vertical slice, API integrations (auth, roles & token expiration, caching, versioning), clean code principles, functional programming principles  
 Delivery & Ops: Agile/Scrum, production support & incident response, root cause analysis, troubleshooting, technical design documentation, roadmapping  
 Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)  
 
