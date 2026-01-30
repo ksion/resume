@@ -10,19 +10,20 @@
 ## Senior Application Developer | .NET & Cloud Solutions
 
 ### Profile 
-Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, Angular/React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
+Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
 
 ---
 
 ### Core Skills
-Languages & Frameworks: C# 12, .NET (Core 6–8, Framework 4.8), REST APIs, Entity Framework, LINQ  
-Frontend: Angular, React, HTML5, CSS3  
-Databases: SQL Server, Oracle SQL, Cosmos DB, SQLite, Snowflake  
-Cloud & DevOps: Azure (App Services, AKS, Service Bus, Event Hub, Storage), AWS basics, Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD pipelines  
-Debugging & Logging: Application Insights, OpenLens, Loggly  
-Architecture: Microservices, CQRS, event-driven systems, API integrations  
-Practices: Agile/Scrum, first-line defense team support, root cause analysis, system troubleshooting, technical design documentation  
-Leadership: Mentorship, Team Lead, Scrum Master Certified (2022)  
+Languages & Backend: C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
+Frontend: React, HTML, CSS  
+Datastores & Analytics: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
+Enterprise Systems, Platforms & API Tooling: Google Ads (formerly AdWords), Microsoft Advertising (formerly Bing Ads), Meta Ads, Oracle Utilities C2M, Postman, Swagger / OpenAPI  
+Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
+Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
+Architecture & Integration: Microservices, CQRS, event-driven architecture, API integrations, clean code principles, layered (n-tier) architecture, vertical slice architecture, functional programming principles  
+Delivery & Ops: Agile/Scrum, production support & incident response, root cause analysis, troubleshooting, technical design documentation, roadmapping  
+Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)  
 
 ---
 
