@@ -76,13 +76,14 @@ PureCars Technologies LLC, Atlanta, GA
 - Delivered resilient third-party API integrations, ensuring compliance with evolving data and creative delivery requirements.
 - Owned production stability, triaging bugs and resolving issues across high-visibility, revenue-impacting systems.
 
-**Software Engineer**  
+**Sr. Software Engineer, Individual Contributor**  
 *May 2015 – April 2021*
-- Developed distributed worker processes and APIs supporting lead generation and submission flows across user-facing applications such as Trade Report, Performance Reports, and Facebook Ads.
-- Designed and implemented a data-driven forms engine enabling dynamic front-end rendering based on backend configuration, reducing hard-coded UI logic and accelerating feature delivery.
-- Built and maintained automated ad-generation infrastructure that transformed dealership inventory and sales data into creative assets trafficked directly to Google Ads, Bing Ads, and Facebook.
-- Engineered budgeting and pacing logic across multiple ad platforms, leveraging hierarchical data structures to optimize spend allocation and campaign performance.
-- Collaborated with external partner teams at Google, Bing, and Facebook to ensure API compliance, resolve integration issues, and maintain platform stability.
+- Designed and implemented scalable microservices in .NET Core running on Azure Kubernetes Service, integrating with Cosmos DB, Service Bus, and Event Hub to support high-throughput, event-driven workflows.  
+- Built distributed worker processes and APIs supporting lead generation, validation, and submission flows across customer-facing applications, including Trade Report, Performance Reports, and Facebook Ads.  
+- Engineered a data-driven forms engine that enabled dynamic front-end rendering via backend configuration, replacing hard-coded UI logic and reducing new partner onboarding from a full sprint of frontend and backend effort to a half-day, backend-only implementation.  
+- Developed automated reporting pipelines using in-memory DataFrame processing to reconcile warehouse data through complex joins and aggregations, producing OEM compliance reports delivered via scheduled FTP.  
+- Built and maintained automated ad-generation infrastructure that transformed dealership inventory and sales data into creative assets trafficked directly to Google Ads, Bing Ads, and Facebook.  
+- Engineered budgeting and pacing logic across multiple ad platforms, leveraging hierarchical data structures to optimize spend allocation and campaign performance.  
 
 **Software Engineer, Co-op Student**  
 CareerBuilder, Norcross, GA  
