@@ -50,7 +50,7 @@ Paper Crafting, Travel, ATL UTD
 
 ### Work Experience
 
-**Career Note**  
+**_Career Note_**  
 Took a planned career break in 2025 after 13+ years in the industry to focus on targeted skill development (React, Blazor, SQL database design) and to support the setup of a private psychology practice website.
 
 **Senior Full-Stack Developer**  
