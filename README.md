@@ -27,12 +27,6 @@ Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)
 
 ---
 
-### Education
-Bachelor of Science in Computer Science  
-Georgia Institute of Technology, Atlanta, GA
-
----
-
 ### Work Experience
 
 **_Career Note_**  
@@ -88,6 +82,13 @@ CareerBuilder, Norcross, GA
 - Implementing SQLite as a lightweight relational database for local development and exploring schema design best practices.
 - Using Docker to containerize frontend, backend, and database services for easy local development and deployment.
 - Leveraging this project to deepen understanding of frontend state management, REST API design, and environment-agnostic development.
+
+---
+
+### Education
+Bachelor of Science in Computer Science  
+Co-operative Education Designation  
+Georgia Institute of Technology, Atlanta, GA
 
 ---
 
