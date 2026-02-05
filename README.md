@@ -27,27 +27,6 @@ Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)
 
 ---
 
-### Education
-Bachelor of Science in Computer Science  
-Georgia Institute of Technology, Atlanta, GA
-
----
-
-### Personal Projects
-
-**Craft Desk**  
-- Designing and developing a full-stack inventory management app for craft and art supplies, with a React frontend and .NET Core API backend.
-- Implementing SQLite as a lightweight relational database for local development and exploring schema design best practices.
-- Using Docker to containerize frontend, backend, and database services for easy local development and deployment.
-- Leveraging this project to deepen understanding of frontend state management, REST API design, and environment-agnostic development.
-
----
-
-### Hobbies 
-Paper Crafting, Travel, ATL UTD
-
----
-
 ### Work Experience
 
 **_Career Note_**  
@@ -93,3 +72,25 @@ CareerBuilder, Norcross, GA
 - Implemented responsive layouts using the Foundation grid system to ensure consistent usability across varying screen sizes and devices.
 - Developed the first iteration of a mobile swipe feature that enabled job seekers to browse a carousel of job postings.
 - Collaborated closely with designers and engineers to translate UX requirements into scalable, production-ready functionality.
+
+---
+
+### Personal Projects
+
+**Craft Desk**  
+- Designing and developing a full-stack inventory management app for craft and art supplies, with a React frontend and .NET Core API backend.
+- Implementing SQLite as a lightweight relational database for local development and exploring schema design best practices.
+- Using Docker to containerize frontend, backend, and database services for easy local development and deployment.
+- Leveraging this project to deepen understanding of frontend state management, REST API design, and environment-agnostic development.
+
+---
+
+### Education
+Bachelor of Science in Computer Science  
+Co-operative Education Designation  
+Georgia Institute of Technology, Atlanta, GA
+
+---
+
+### Hobbies 
+Paper Crafting, Travel, ATL UTD
