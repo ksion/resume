@@ -17,7 +17,7 @@ Senior Application Developer with 10+ years of experience building enterprise .N
 ### Core Skills
 Languages & Backend: C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
 Frontend: React, HTML, CSS  
-Datastores & Analytics: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
+Datastores: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
 Enterprise Systems, Platforms & API Tooling: Google Ads (formerly AdWords), Microsoft Advertising (formerly Bing Ads), Meta Ads, Oracle Utilities C2M, Postman, Swagger / OpenAPI  
 Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
 Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
@@ -30,21 +30,6 @@ Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)
 ### Education
 Bachelor of Science in Computer Science  
 Georgia Institute of Technology, Atlanta, GA
-
----
-
-### Personal Projects
-
-**Craft Desk**  
-- Designing and developing a full-stack inventory management app for craft and art supplies, with a React frontend and .NET Core API backend.
-- Implementing SQLite as a lightweight relational database for local development and exploring schema design best practices.
-- Using Docker to containerize frontend, backend, and database services for easy local development and deployment.
-- Leveraging this project to deepen understanding of frontend state management, REST API design, and environment-agnostic development.
-
----
-
-### Hobbies 
-Paper Crafting, Travel, ATL UTD
 
 ---
 
@@ -93,3 +78,18 @@ CareerBuilder, Norcross, GA
 - Implemented responsive layouts using the Foundation grid system to ensure consistent usability across varying screen sizes and devices.
 - Developed the first iteration of a mobile swipe feature that enabled job seekers to browse a carousel of job postings.
 - Collaborated closely with designers and engineers to translate UX requirements into scalable, production-ready functionality.
+
+---
+
+### Personal Projects
+
+**Craft Desk**  
+- Designing and developing a full-stack inventory management app for craft and art supplies, with a React frontend and .NET Core API backend.
+- Implementing SQLite as a lightweight relational database for local development and exploring schema design best practices.
+- Using Docker to containerize frontend, backend, and database services for easy local development and deployment.
+- Leveraging this project to deepen understanding of frontend state management, REST API design, and environment-agnostic development.
+
+---
+
+### Hobbies 
+Paper Crafting, Travel, ATL UTD
