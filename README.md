@@ -17,7 +17,7 @@ Senior Application Developer with 10+ years of experience building enterprise .N
 ### Core Skills
 Languages & Backend: C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
 Frontend: React, HTML, CSS  
-Datastores & Analytics: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
+Datastores: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
 Enterprise Systems, Platforms & API Tooling: Google Ads (formerly AdWords), Microsoft Advertising (formerly Bing Ads), Meta Ads, Oracle Utilities C2M, Postman, Swagger / OpenAPI  
 Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
 Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
